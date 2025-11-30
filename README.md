@@ -110,7 +110,7 @@ KeyXGrowth AI automates the entire outreach pipeline using **8 specialized AI ag
 
 ### Option 1: Run on Kaggle (Recommended)
 
-1. **Open the notebook:** [KeyXGrowth AI on Kaggle](YOUR_KAGGLE_URL_HERE)
+1. **Open the notebook:** [KeyXGrowth AI on Kaggle](https://www.kaggle.com/code/arnavtalwar1/keyxgrowth-ai)
 2. **Add your API key:**
    - Click "Add-ons" → "Secrets"
    - Add secret: `GOOGLE_API_KEY` = your key
@@ -426,7 +426,7 @@ Special thanks to the Google team for creating ADK and providing comprehensive l
 
 ## 👤 Author
 
-**[Your Name]**
+**Arnav Talwar**
 
 - LinkedIn: https://www.linkedin.com/in/arnav-talwar1/
 - Twitter: https://x.com/arnavtalwar15
